@@ -1,4 +1,5 @@
 import React from "react"
+import "./index.sass"
 import Breakout from "./Breakout"
 
 function App() {
